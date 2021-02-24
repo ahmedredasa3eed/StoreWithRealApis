@@ -1,4 +1,4 @@
-# E-store applcation
+# E-store Application
 
 ## A new Flutter application that consumes REST APIs.
 
